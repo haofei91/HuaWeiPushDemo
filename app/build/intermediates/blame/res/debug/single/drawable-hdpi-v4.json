@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "D:\\PushDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\push.png",
+        "source": "D:\\PushDemo1\\app\\src\\main\\res\\drawable-hdpi\\push.png"
+    },
+    {
+        "merged": "D:\\PushDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "D:\\PushDemo1\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\PushDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\send.png",
+        "source": "D:\\PushDemo1\\app\\src\\main\\res\\drawable-hdpi\\send.png"
+    },
+    {
+        "merged": "D:\\PushDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\start.png",
+        "source": "D:\\PushDemo1\\app\\src\\main\\res\\drawable-hdpi\\start.png"
+    },
+    {
+        "merged": "D:\\PushDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\gettoken.png",
+        "source": "D:\\PushDemo1\\app\\src\\main\\res\\drawable-hdpi\\gettoken.png"
+    },
+    {
+        "merged": "D:\\PushDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pushnotify.png",
+        "source": "D:\\PushDemo1\\app\\src\\main\\res\\drawable-hdpi\\pushnotify.png"
+    },
+    {
+        "merged": "D:\\PushDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\upload.png",
+        "source": "D:\\PushDemo1\\app\\src\\main\\res\\drawable-hdpi\\upload.png"
+    }
+]
